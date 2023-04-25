@@ -1,0 +1,11 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.employerList{
+  max-width: 1248px;
+  margin: 0 auto;
+
+}
+.logo{
+  width: 20%;
+}
